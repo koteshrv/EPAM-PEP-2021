@@ -27,6 +27,22 @@
 **JAVA Fundamentals - 2 & Exception Handling**  
 [Document](https://github.com/koteshrv/EPAM-PEP-2021/blob/master/Materials/PEP-06-10-2020.pptx)  
 [Session](https://attendee.gotowebinar.com/recording/175574824879483919)  
+  
+7. November 3 2020  
+**Java Generics and Annotations**  
+[Document](https://github.com/koteshrv/EPAM-PEP-2021/blob/master/Materials/PEP-06-10-2020.pptx)  
+[Session](https://attendee.gotowebinar.com/recording/3255187048131959051) 
+  
+8. January 19 2021  
+**Java Collections**  
+[Document](https://github.com/koteshrv/EPAM-PEP-2021/blob/master/Materials/PEP-06-10-2020.pptx)  
+[Session](https://attendee.gotowebinar.com/recording/6070702077034560520) 
+  
+9. January 27 2021  
+**SOLID/KISS/DRY Principles**  
+[Document](https://github.com/koteshrv/EPAM-PEP-2021/blob/master/Materials/PEP-06-10-2020.pptx)  
+[Session](https://attendee.gotowebinar.com/recording/1014700111464964879) 
+ 
 
   
   
